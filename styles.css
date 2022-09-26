@@ -112,3 +112,34 @@ img {
   color: black;
   font-size: 18px;
 }
+
+.third-container {
+  margin: 0;
+  height: 300px;
+  background: rgb(240, 121, 24)
+}
+
+.quote {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  color: white;
+}
+
+.author {
+  display: flex;
+  justify-content: end;
+  padding-right: 300px;
+  color: white;
+}
+
+.text-3 {
+  font-size: 36px;
+  width: 700px;
+}
+
+.text4 {
+  width: 250px;
+  font-size: 18px;
+  font-weight: bold;
+}
